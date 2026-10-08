@@ -18,6 +18,12 @@ playback timestamps, PotPlayer branding, and optional TMDB artwork.
 - 🌐 TMDB language configuration
 - ⚙️ Configurable through Windhawk settings
 
+
+## Screenshots
+
+<img width="355" height="500" alt="image" src="https://github.com/user-attachments/assets/fb6ca6f2-a4a9-4684-b78a-dfa5ac188900" />
+
+
 ## Requirements
 
 - Windows 10/11
